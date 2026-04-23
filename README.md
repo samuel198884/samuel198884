@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yo! 🎤
 
-<!--
-**samuel198884/samuel198884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **samuel198884**, a test automation engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Open source enthusiast
+- ⚡ Fun fact: I write code while drinking coffee
+- 📚 Reading the source is the best documentation
+- 📫 Reach me through GitHub
+- 🚀 Performance matters
+
+## Tech
+
+`Haskell` `Nuxt` `Docker` `Laravel` `Swift` `Gin`
+
+---
+
+_Available for hire._
